@@ -11,13 +11,12 @@ Passo a passo:
 jaeger-all-in-one --collector.zipkin.http-port=9411
 ``
 
-- Executar serviço no roteirizador-ms
-Sem erro:
+- Executar serviço no roteirizador-ms:<br />
+Sem erro:<br />
 ``
 localhost:8081/helloError
 ``
-
-Com erro proposital para analisar o erro no jaeger:
+Com erro proposital para analisar o erro no jaeger:<br />
 ``
 localhost:8081/hello
 ``
