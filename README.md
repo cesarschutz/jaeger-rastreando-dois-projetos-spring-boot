@@ -1,4 +1,4 @@
-# Como executar o projeto
+# Rastreabilidade entre dois projetos com Jaeger
 
 Passo a passo:
 
