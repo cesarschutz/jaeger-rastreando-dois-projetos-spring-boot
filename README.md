@@ -16,12 +16,12 @@ Sem erro:<br />
 ``
 localhost:8081/helloError
 ``
-Com erro proposital para analisar o erro no jaeger:<br />
+<br />Com erro proposital para analisar o erro no jaeger:<br />
 ``
 localhost:8081/hello
 ``
 
-- Verficar rastreabilidade:
+- Verficar rastreabilidade:<br />
 ``
 http://localhost:16686
 ``
