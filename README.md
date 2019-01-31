@@ -12,7 +12,7 @@ jaeger-all-in-one --collector.zipkin.http-port=9411
 ``
 
 - Executar serviço no roteirizador-ms:<br />
---Sem erro:<br />
+Sem erro:<br />
 ``
 localhost:8081/hello
 ``
