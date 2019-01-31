@@ -6,7 +6,7 @@ Passo a passo:
 
 - Iniciar serviço roteirizador-ms
 
-- Iniciar jaeger all-in-one:
+- Iniciar jaeger all-in-one:<br />
 ``
 jaeger-all-in-one --collector.zipkin.http-port=9411
 ``
